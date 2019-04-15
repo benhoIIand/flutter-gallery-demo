@@ -8,4 +8,4 @@ jobs:
       - run: flutter channel beta
       - run: flutter doctor
       - run: flutter test 
-      # - run: flutter -v build apk
+      - run: flutter -v build apk
